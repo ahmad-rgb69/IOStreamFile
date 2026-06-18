@@ -3,7 +3,7 @@ package bagian1.berkas;
 import java.io.File;
 import java.io.IOException;
 
-public class Latihan3 {
+public class LatihanMandiriBagian1 {
     public static void main(String[] args) {
         
         System.out.println("=== SOAL 1: Cek Keberadaan & Ukuran Berkas ===");
