@@ -5,13 +5,15 @@
         <group>
             <file>file:/D:/Java/IOStreamFile/src/bagian1/berkas/Latihan1.java</file>
             <file>file:/D:/Java/IOStreamFile/src/bagian1/berkas/Latihan2.java</file>
-            <file>file:/D:/Java/IOStreamFile/src/bagian1/berkas/Latihan3.java</file>
+            <file>file:/D:/Java/IOStreamFile/src/bagian1/berkas/LatihanMandiriBagian1.java</file>
             <file>file:/D:/Java/IOStreamFile/src/bagian2/bacatulis/Latihan3.java</file>
             <file>file:/D:/Java/IOStreamFile/src/bagian2/bacatulis/Latihan4.java</file>
             <file>file:/D:/Java/IOStreamFile/src/bagian2/bacatulis/Latihan5.java</file>
             <file>file:/D:/Java/IOStreamFile/src/bagian2/bacatulis/LatihanMandiriBagian2MenulisKeBerkas.java</file>
             <file>file:/D:/Java/IOStreamFile/src/bagian2/bacatulis/LatihanMandiriBagian2MenambahData.java</file>
-            <file>file:/D:/Java/IOStreamFile/src/bagian2/bacatulis/LatihanMandiriBagian2MembacaBerkas.java</file>
+            <file>file:/D:/Java/IOStreamFile/src/bagian3/kontak/Kontak.java</file>
+            <file>file:/D:/Java/IOStreamFile/src/bagian3/kontak/BukuKontak.java</file>
+            <file>file:/D:/Java/IOStreamFile/src/bagian3/kontak/MainKontak.java</file>
         </group>
     </open-files>
 </project-private>

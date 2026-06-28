@@ -1,0 +1,5 @@
+Laptop Advan;8700000.0;5
+Mouse Fantech;330000.0;10
+Keyboard PressPlay;630000.0;15
+Speaker Soundcore;299000.0;12
+CoolingPad Rexus;550000.0;10
